@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Tito Dominggu 🌱
+### Aspiring Data Analyst | SQL · Python · Tableau
 
-<!--
-**TitoDominggu/TitoDominggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+Fresh graduate who recently completed a data analyst program.
+I enjoy turning raw data into clear insights that help businesses make better decisions.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+- **SQL** (Google BigQuery)
+- **Python** (pandas, matplotlib) in Google Colab
+- **Tableau**
+- **Spreadsheets** (Google Sheets / Excel)
+
+## 🌱 Currently
+- Learning advanced SQL and data storytelling
+- 🚀 Open to Data Analyst opportunities, willing to relocate
+
+## 📫 Contact
+- LinkedIn: [https://www.linkedin.com/in/johannes-krysosthomus-thedens-dominggu/]
+- Email: titosyn8@gmail.com
+
+
+
+
