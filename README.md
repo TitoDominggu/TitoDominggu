@@ -17,7 +17,7 @@ I enjoy turning raw data into clear insights that help businesses make better de
 - 🚀 Open to Data Analyst opportunities, willing to relocate
 
 ## 📫 Contact
-- LinkedIn: [https://www.linkedin.com/in/johannes-krysosthomus-thedens-dominggu/]
+- LinkedIn: [Johannes Krysosthomus Thedens Dominggu](https://www.linkedin.com/in/johannes-krysosthomus-thedens-dominggu/)
 - Email: titosyn8@gmail.com
 
 
