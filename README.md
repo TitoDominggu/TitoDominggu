@@ -1,7 +1,7 @@
 # Hi, I'm Tito Dominggu 🌱
 ### Aspiring Data Analyst | SQL · Python · Tableau
 
-## About Me:
+## About Me
 Fresh graduate who recently completed a data analyst program.
 I enjoy turning raw data into clear insights that help businesses make better decisions.
 
