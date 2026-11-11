@@ -1,7 +1,7 @@
 # Hi, I'm Tito Dominggu 🌱
 
 
-![TitoDominggu](img/titodominggu-banner.png)
+![TitoDominggu](Img/titodominggu-banner.png)
 
 ### Aspiring Data Analyst | SQL · Python · Tableau
 
