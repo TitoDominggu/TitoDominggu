@@ -37,4 +37,4 @@ Sales performance analysis of a Brazilian e-commerce marketplace (96K+ orders) u
 [Notebook](https://github.com/TitoDominggu/Olist-Sales-Performance) · [Tableau Dashboard](https://public.tableau.com/views/OlistSalesPerformance_17903497974360/OlistSalesPerformance)
 
 ## 📫 Contact
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/johannes-krysosthomus-thedens-dominggu/) [![Email](https://skillicons.dev/icons?i=gmail)](mailto:titosyn8@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/johannes-krysosthomus-thedens-dominggu/) [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=titosyn8@gmail.com)
