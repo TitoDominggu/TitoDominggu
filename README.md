@@ -15,14 +15,12 @@ A data analytics enthusiast with a business management background, trained throu
 
 ## 💼Experience
 - **Associate Data Analyst** · RevoU NEXT (Oct 2026 – Present) <br>
-
   Collaborating in teams on real-case data analytics projects using SQL, Python, and Tableau.
 - **Chief Financial Officer** · Spezie Boba (Feb 2022 – Aug 2023) <br>
-
   Prepared weekly financial reports for 19 months and monitored income and expenses to support purchasing decisions.
 - **Chief Marketing Officer** · Pezen (Feb 2021 – Jan 2022) <br>
-
   Acquired and managed 6 F&B partners for an IT startup's MVP trial.
+
 ## 🛠️ Tools
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
