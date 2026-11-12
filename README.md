@@ -64,5 +64,11 @@ Credit card customer analysis using Python (Pandas, Scikit-learn): data cleaning
 
 [Notebook](https://github.com/TitoDominggu/revobank-credit-card-analysis/blob/main/notebook/RevoBank_Credit_Card_Analysis.ipynb) · [Presentation](https://github.com/TitoDominggu/revobank-credit-card-analysis/blob/main/presentation/RevoBank_Credit_Card_Analysis.pdf)
 
+**[Revo Hospital Network Operations Dashboard](https://github.com/TitoDominggu/revo-hospital-dashboard)** <br>
+Interactive Tableau dashboard monitoring 5,000 patient admissions across hospital branches in Java, covering patient demand, bed utilization, length of stay (avg 4.5 days), and Rp 98.9B net revenue.
+
+[Repository](https://github.com/TitoDominggu/revo-hospital-dashboard) · [Tableau Dashboard](https://public.tableau.com/views/RevoHospitalNetworkOperationsDashboard/Dashboard1)
+
+
 ## 📫 Contact
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/johannes-krysosthomus-thedens-dominggu/) [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=titosyn8@gmail.com)
