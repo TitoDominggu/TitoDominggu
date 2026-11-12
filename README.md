@@ -59,5 +59,10 @@ Sales performance analysis per product category of a grocery retailer (6.7M+ tra
 
 [SQL Queries](https://github.com/TitoDominggu/revogrocers-sales-analysis/tree/main/sql) · [Presentation](https://github.com/TitoDominggu/revogrocers-sales-analysis/blob/main/presentation/RevoGrocers_Sales_Performance_Analysis.pdf)
 
+**[RevoBank Credit Card Sales Performance](https://github.com/TitoDominggu/revobank-credit-card-analysis)** <br>
+Credit card customer analysis using Python (Pandas, Scikit-learn): data cleaning, EDA, and K-Means segmentation of 1,938 customers into 3 risk-based clusters. Net profit reached Rp 6.84B with a 0.22% fraud rate.
+
+[Notebook](https://github.com/TitoDominggu/revobank-credit-card-analysis/blob/main/notebook/RevoBank_Credit_Card_Analysis.ipynb) · [Presentation](https://github.com/TitoDominggu/revobank-credit-card-analysis/blob/main/presentation/RevoBank_Credit_Card_Analysis.pdf)
+
 ## 📫 Contact
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/johannes-krysosthomus-thedens-dominggu/) [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=titosyn8@gmail.com)
