@@ -5,36 +5,59 @@
 
 ### Aspiring Data Analyst | SQL · Python · Tableau
 
-## About Me
-A data analytics enthusiast with a business management background, trained through the RevoU Data Analytics Program. Skilled in formulating business problem statements, collecting and cleaning data, performing Exploratory Data Analysis (EDA), building data visualizations, and translating findings into actionable insights and business recommendations using Spreadsheet, SQL (Google BigQuery), Python (Google Colab), and Tableau.
+## 👋 About Me
+A data analyst with a Bachelor of Management background, trained through the **RevoU Full Stack Data Analytics Program**. Experienced in end-to-end analysis, from formulating business problems, cleaning, validating, and merging data, to performing Exploratory Data Analysis (EDA) and building interactive dashboards using Spreadsheet, SQL (Google BigQuery), Python, and Tableau.
+
+In my final project, I analyzed **96,211 completed orders** of Olist e-commerce data and delivered **3 prioritized business recommendations**. Supported by hands-on business experience in marketing for an IT startup and in finance for an F&B business, I understand how data connects to real business decisions.
+
+🌱 Currently learning advanced SQL and data storytelling.<br>
+🚀 Open to Data Analyst opportunities and willing to relocate.
 
 
-## 🎓Education
-- <img src="Img/logo-universitas-ciputra.png" height="20"> **Ciputra University** - Bachelor of Management, International Business Management (2020 – 2024)
-- <img src="Img/logo-revou.png" height="20"> **RevoU** - Full Stack Data Analytics (2026)
+## 💼 Experience
+- **Associate Data Analyst** · RevoU NEXT (Oct 2026 – Present)
+  - Selected as Associate Data Analyst after completing the RevoU Full Stack Data Analytics Program, including an end-to-end final project on Olist e-commerce data.
+  - Collaborating in teams on real-case data analytics projects, with an upcoming team project (Dec 2026) applying SQL, Python, and Tableau.
 
-## 💼Experience
-- **Associate Data Analyst** · RevoU NEXT (Oct 2026 – Present) <br>
-  Collaborating in teams on real-case data analytics projects using SQL, Python, and Tableau.
-- **Chief Financial Officer** · Spezie Boba (Feb 2022 – Aug 2023) <br>
-  Prepared weekly financial reports for 19 months and monitored income and expenses to support purchasing decisions.
-- **Chief Marketing Officer** · Pezen (Feb 2021 – Jan 2022) <br>
-  Acquired and managed 6 F&B partners for an IT startup's MVP trial.
+- **Chief Financial Officer** · Spezie Boba – F&B Business (Feb 2022 – Aug 2023)
+  - Prepared weekly financial reports on time for 19 months for a business generating approximately IDR 5 million in monthly revenue.
+  - Updated bookkeeping every week to record all income and expenses, keeping financial records accurate for business evaluation.
+  - Managed the business budget and monitored income and expenses to control operational spending and support purchasing decisions.
+
+- **Chief Marketing Officer** · Pezen – IT Startup, Catering & Pre-Order Platform (Feb 2021 – Jan 2022)
+  - Searched for and acquired 6 F&B partners in catering and pre-order to trial the Pezen app at the MVP stage.
+  - Supervised communication with the 6 trial partners to keep them engaged until the MVP trial was completed.
+  - Created a Business Model Canvas to define the value proposition, customer segments, and revenue streams.
+
+## 🧠 Skills
+**Technical Skills**
+- **SQL (Google BigQuery):** JOIN, Aggregation, CTE, Subquery, Window Function, Data Cleaning
+- **Python (Google Colab / Jupyter):** Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning & Validation, Data Merging, EDA
+- **Data Visualization (Tableau, Power BI):** Interactive Dashboard, KPI Cards, Calculated Fields, Power Query & DAX (Basic)
+- **Spreadsheet:** Pivot Table, Data Cleaning, Charts
+
+**Analytical & Soft Skills**
+- **Problem Solving:** Structured Problem Framing, Root Cause Analysis
+- **Analytical Thinking:** Hypothesis-Driven Analysis, KPI Driver Analysis
+- **Communication:** Data Storytelling, Stakeholder Communication
+- **Teamwork:** Cross-Functional Collaboration, Stakeholder Mapping (DARCI)
 
 ## 🛠️ Tools
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-## 🌱 Currently
-- Learning advanced SQL and data storytelling
-- 🚀 Open to Data Analyst opportunities, willing to relocate
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-## 📂 Featured Project
+## 📂 Featured Projects
 
 **[Olist Sales Performance Analysis](https://github.com/TitoDominggu/Olist-Sales-Performance)** <br>
 Sales performance analysis of a Brazilian e-commerce marketplace (96K+ orders) using Python and Tableau. Revenue grew 161.59% YoY (Jan–Jul 2018), driven by order volume.
 
 [Notebook](https://github.com/TitoDominggu/Olist-Sales-Performance) · [Tableau Dashboard](https://public.tableau.com/views/OlistSalesPerformance_17903497974360/OlistSalesPerformance)
+
+**[RevoGrocers Sales Performance Analysis](https://github.com/TitoDominggu/revogrocers-sales-analysis)**
+
+Sales performance analysis per product category of a grocery retailer (6.7M+ transactions) using SQL on Google BigQuery. Confections led with 12.87% revenue contribution and a 99.85% repeat purchase rate.
+
+[SQL Queries](https://github.com/TitoDominggu/revogrocers-sales-analysis/tree/main/sql) · [Presentation](https://github.com/TitoDominggu/revogrocers-sales-analysis/blob/main/presentation/RevoGrocers_Sales_Performance_Analysis.pdf)
 
 ## 📫 Contact
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/johannes-krysosthomus-thedens-dominggu/) [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=titosyn8@gmail.com)
